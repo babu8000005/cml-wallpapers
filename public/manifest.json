@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "wallpapers": [
+    {
+      "id": "aura-off-boys",
+      "title": "AURA OFF BOYS",
+      "type": "STILL",
+      "format": "jpeg",
+      "width": 3840,
+      "height": 2160,
+      "thumbnail": "thumbnails/AURA%20OFF%20BOYS-thumb.jpg",
+      "image": "wallpapers/AURA%20OFF%20BOYS.jpg"
+    }
+  ]
+}
