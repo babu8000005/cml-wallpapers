@@ -1,15 +1,185 @@
 {
-  "manifestVersion": 1,
-  "wallpapers": [
-    {
-      "id": "aura-off-boys",
-      "title": "AURA OFF BOYS",
-      "type": "STILL",
-      "format": "jpeg",
-      "width": 3840,
-      "height": 2160,
-      "thumbnail": "thumbnails/AURA%20OFF%20BOYS-thumb.jpg",
-      "image": "wallpapers/AURA%20OFF%20BOYS.jpg"
-    }
-  ]
+    "manifestVersion":  1,
+    "wallpapers":  [
+                       {
+                           "id":  "aura-off-boys-aura-off-boys",
+                           "width":  3840,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/AURA%20OFF%20BOYS.jpg",
+                           "title":  "AURA OFF BOYS",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2160,
+                           "image":  "wallpapers/Aura%20Off%20Boys/AURA%20OFF%20BOYS.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-gojo-satoru-from-jujutsu-kaisen-pu",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/gojo-satoru-from-jujutsu-kaisen-pu.jpg",
+                           "title":  "gojo satoru from jujutsu kaisen pu",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2880,
+                           "image":  "wallpapers/Aura%20Off%20Boys/gojo-satoru-from-jujutsu-kaisen-pu.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-goku-super-saiyan-3840x2160-19870",
+                           "width":  3840,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/goku-super-saiyan-3840x2160-19870.jpg",
+                           "title":  "goku super saiyan 3840x2160 19870",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2160,
+                           "image":  "wallpapers/Aura%20Off%20Boys/goku-super-saiyan-3840x2160-19870.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-inosuke-hashibira-demon-slayer-kimetsu-no-yaiba-fq",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/inosuke-hashibira-demon-slayer-kimetsu-no-yaiba-fq.jpg",
+                           "title":  "inosuke hashibira demon slayer kimetsu no yaiba fq",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2880,
+                           "image":  "wallpapers/Aura%20Off%20Boys/inosuke-hashibira-demon-slayer-kimetsu-no-yaiba-fq.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-itachi-dark",
+                           "width":  3840,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/itachi-dark.jpg",
+                           "title":  "itachi dark",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2160,
+                           "image":  "wallpapers/Aura%20Off%20Boys/itachi-dark.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-master-kakashi-5k-o5",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/master-kakashi-5k-o5.jpg",
+                           "title":  "master kakashi 5k o5",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2880,
+                           "image":  "wallpapers/Aura%20Off%20Boys/master-kakashi-5k-o5.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-sasuke-uchiha-5k-ti",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-5k-ti.jpg",
+                           "title":  "sasuke uchiha 5k ti",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2880,
+                           "image":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-5k-ti.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-sasuke-uchiha-mh",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-mh.jpg",
+                           "title":  "sasuke uchiha mh",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2881,
+                           "image":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-mh.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-sasuke-uchiha-unleashed-oi",
+                           "width":  5120,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-unleashed-oi.jpg",
+                           "title":  "sasuke uchiha unleashed oi",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  2880,
+                           "image":  "wallpapers/Aura%20Off%20Boys/sasuke-uchiha-unleashed-oi.jpg"
+                       },
+                       {
+                           "id":  "aura-off-boys-uwp4757896",
+                           "width":  1280,
+                           "thumbnail":  "wallpapers/Aura%20Off%20Boys/uwp4757896.jpeg",
+                           "title":  "uwp4757896",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  681,
+                           "image":  "wallpapers/Aura%20Off%20Boys/uwp4757896.jpeg"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882407",
+                           "width":  1919,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882407.png",
+                           "title":  "uwp4882407",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  1048,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882407.png"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882413",
+                           "width":  1466,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882413.png",
+                           "title":  "uwp4882413",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  825,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882413.png"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882415",
+                           "width":  1440,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882415.jpeg",
+                           "title":  "uwp4882415",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  900,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882415.jpeg"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882418",
+                           "width":  1365,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882418.png",
+                           "title":  "uwp4882418",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  727,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882418.png"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882419",
+                           "width":  1920,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882419.jpeg",
+                           "title":  "uwp4882419",
+                           "format":  "jpeg",
+                           "type":  "STILL",
+                           "height":  1200,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882419.jpeg"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882422",
+                           "width":  1920,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882422.png",
+                           "title":  "uwp4882422",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  1080,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882422.png"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882429",
+                           "width":  1920,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882429.png",
+                           "title":  "uwp4882429",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  1080,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882429.png"
+                       },
+                       {
+                           "id":  "peace-wallpaper-uwp4882430",
+                           "width":  1920,
+                           "thumbnail":  "wallpapers/Peace%20Wallpaper/uwp4882430.png",
+                           "title":  "uwp4882430",
+                           "format":  "png",
+                           "type":  "STILL",
+                           "height":  1080,
+                           "image":  "wallpapers/Peace%20Wallpaper/uwp4882430.png"
+                       }
+                   ]
 }
